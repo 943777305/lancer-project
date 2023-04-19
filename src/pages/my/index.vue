@@ -1,7 +1,7 @@
  <template>
  <view class="bg">
 	<text >
-		我的
+		我的 
 	</text>
  </view>
  </template>
